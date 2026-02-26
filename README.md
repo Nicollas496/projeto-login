@@ -11,5 +11,8 @@ Projeto criado na aula da diciplina de prgramação Front-End, na Unicesumar, ca
 - Bootstrap
 - Git
 
+
+Após, pegamos a tela de login onde estáva em inglês fomos no index.html e trocamos as palavras pelo português. Em seguida criamos o botão FAQ, onde seria um local de ajuda. Pegamos o molde de login do https://getbootstrap.com/. E então ultilizamos o inclua via CND que significa carregar arquivos externos como bibliotecas Java Script, Framework CSS diretamente de um servidor remoto de terceiros. 
+
 ### Autor
 [Nicollas Azalim ](https://github.com/Nicollas496/projeto-login)
